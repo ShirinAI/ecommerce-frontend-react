@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f9fa;
+  bottom: 0;
+}
+
+.iconsContainer {
+  display: flex; /* Display icons in a row */
+  align-items: center;
+}
+
+.icons {
+  padding: 25px;
+}
+.icons svg {
+  font-size: 40px; /* Adjust the size of the icons as needed */
+  color: #6c757d; /* Adjust the color of the icons */
+}
+
+.slogan {
+  display: flex;
+  justify-content: center;
+}
